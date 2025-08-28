@@ -11,7 +11,7 @@ Also codez, cuz pizza needz HTML + CSS too. LOL.
 
 ---
 
-## 🚀 Featurez
+## Featurez
 - 🍅 Freshest tomato sauce (no lie)  
 - 🧀 Cheez dat stretch 4 milez  
 - 🐱 Cute kitty mascot wif chef hat  
@@ -20,7 +20,7 @@ Also codez, cuz pizza needz HTML + CSS too. LOL.
 
 ---
 
-## ⚡ How 2 Run
+##  How 2 Run
 1. Clonez repo:  
    ```bash
    git clone https://github.com/ur-user/kittys-pizzeria.git
